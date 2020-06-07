@@ -9,4 +9,4 @@
 
 ## 研究計画関連
 [大学院提出用研究計画書](https://github.com/IshidaYutaka/B4/blob/master/%E5%A4%A7%E5%AD%A6%E6%8F%90%E5%87%BA%E7%94%A8%E7%A0%94%E7%A9%B6%E8%A8%88%E7%94%BB%E6%9B%B8.pdf)
-[6月19日提出、題目・研究計画概要](https://github.com/IshidaYutaka/B4/blob/master/%E5%A4%A7%E5%AD%A6%E6%8F%90%E5%87%BA%E7%94%A8%E7%A0%94%E7%A9%B6%E8%A8%88%E7%94%BB%E6%9B%B8.pdf)
+[6月19日提出、題目・研究計画概要](https://github.com/IshidaYutaka/B4/blob/master/%E8%8F%8A%E6%B1%A0%E8%8B%B1%E6%98%8E_1J17D018_%E7%9F%B3%E7%94%B0%E8%B1%8A_%E6%A6%82%E8%A6%81.pdf)
