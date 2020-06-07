@@ -7,5 +7,6 @@
 ## クラウドワークス
 [クラウドワークス反省ページ](https://github.com/IshidaYutaka/B4/blob/master/%E3%82%AF%E3%83%A9%E3%82%A6%E3%83%88%E3%82%99%E3%83%AF%E3%83%BC%E3%82%AF%E3%82%B9%E5%8F%8D%E7%9C%81%E7%82%B9.pdf)
 
-## 大学院提出用研究計画書
+## 研究計画関連
 [大学院提出用研究計画書](https://github.com/IshidaYutaka/B4/blob/master/%E5%A4%A7%E5%AD%A6%E6%8F%90%E5%87%BA%E7%94%A8%E7%A0%94%E7%A9%B6%E8%A8%88%E7%94%BB%E6%9B%B8.pdf)
+[6月19日提出、題目・研究計画概要](https://github.com/IshidaYutaka/B4/blob/master/%E5%A4%A7%E5%AD%A6%E6%8F%90%E5%87%BA%E7%94%A8%E7%A0%94%E7%A9%B6%E8%A8%88%E7%94%BB%E6%9B%B8.pdf)
